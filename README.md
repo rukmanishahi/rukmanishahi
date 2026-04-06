@@ -1,4 +1,4 @@
-# Hi, I'm ⋆. 𐙚˚࿔ Rukmani 𝜗𝜚˚⋆
+# Hi, I'm ⋆. 𐙚˚࿔ Rukmani 𖦹🍀୭˚. ᵎᵎ｡🧷𖦹°‧
 
 I'm a Robotics Engineering student who enjoys building clean, functional, and visually appealing interfaces. I like working at the intersection of code and design, turning ideas into practical products.
 
