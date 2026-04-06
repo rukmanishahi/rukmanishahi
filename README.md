@@ -4,7 +4,7 @@ I'm a Robotics Engineering student who enjoys building clean, functional, and vi
 
 ## About Me˚˖𓍢ִ໋❀
 
-* B.Tech in Robotics Engineering @ Galgotias University (2025–2029)
+* B.Tech in Robotics Engineering ('29)
 * Frontend-focused developer with a strong interest in UI/UX
 * Comfortable with both development and design tools
 * Prefer learning by building and solving real problems
