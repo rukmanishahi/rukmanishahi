@@ -53,6 +53,6 @@ Figma · Canva
 * Email: [rukmanishahi107@gmail.com](mailto:rukmanishahi107@gmail.com)
 * LinkedIn: linkedin.com/in/rukmani-shahi-2835722a7
 
-##⏔⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔⏔
+## ⏔⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔⏔
 
 I focus on consistency, curiosity, and building things that work.
