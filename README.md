@@ -9,7 +9,7 @@ I'm a Robotics Engineering student who enjoys building clean, functional, and vi
 * Comfortable with both development and design tools
 * Prefer learning by building and solving real problems
 
-##────୨ৎ──── Tech Stack ────୨ৎ────
+## ────୨ৎ──── Tech Stack ────୨ৎ────
 
 **Languages & Web:**
 HTML · CSS · Python · C++ · MySQL · C · Dart 
