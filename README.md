@@ -22,14 +22,14 @@ Figma · Canva
 
 ## ────୨ৎ────Experience────୨ৎ────
 
+* **Team Leader @ Scholastic India**
+  Managed a team of 30 Interns for a large-scale event from planning to execution.
+
 * **Student Intern @ Scaler School of Technology**
   Worked on personal branding, networking, and explored UI/UX workflows using Figma.
 
 * **Head of IT @ DAV Schools Network**
   Led IT initiatives, built projects, and managed team workflows.
-
-* **Team Leader @ Scholastic India**
-  Managed a team of 30 Interns for a large-scale event from planning to execution.
 
 ## ────୨ৎ────Projects────୨ৎ────
 
