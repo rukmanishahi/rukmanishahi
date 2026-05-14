@@ -1,4 +1,4 @@
-# Hi, I'm Rukmani 𖡼.𖤣𖥧𖡼.𖤣𖥧𐙚
+# Hi, I'm Rukmani 𐙚
 
 I'm a Robotics Engineering student who enjoys building clean, functional, and visually appealing interfaces. I like working at the intersection of code and design, turning ideas into practical products.
 
