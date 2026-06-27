@@ -44,10 +44,8 @@ Figma · Canva
 
 ## ────୨ৎ────Currently Working On────୨ৎ────
 
-* Improving frontend development skills
 * Building better UI/UX projects
-* Exploring real-world applications of technology
-
+* Building an AI blocker for a network
 ## ────୨ৎ────Contact────୨ৎ────
 
 * Email: [rukmanishahi107@gmail.com](mailto:rukmanishahi107@gmail.com)
